@@ -9,8 +9,7 @@ a.active hr{
   display: block;
 }
 *{
-  text-transform: capitalize;
-  font-family: Outfit;
+  font-family: Outfit
 }
 
 .prata-regular {
